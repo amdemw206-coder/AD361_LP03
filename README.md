@@ -16,21 +16,21 @@
 
 
 **Ranges and Conditions:**  
-(i) Reservation Nights: 
-    Invalid: < 1 
-    Valid: 1 - 31
-    Invalid: > 31
-**(ii) Reservation Guests:** 
-    Invalid: < 1
-    Valid: 1 - 12
-    Invalid: > 12
-**(iii) Check-in/Checkout dates** 
-    Invalid: Checkout is before check-in 
-    Valid: Check-in is before checkout
-    Invalid: Check-in and checkout are in the same date
-**(iv) Requested date ranges:**  
-    Valid: every night in the date range is available
-    Invalid: one or more nights in the date range isn't available  
+- (i) Reservation Nights: 
+    - Invalid: < 1 
+    - Valid: 1 - 31
+    - Invalid: > 31
+- (ii) Reservation Guests:
+    - Invalid: < 1
+    - Valid: 1 - 12
+    - Invalid: > 12
+- (iii) Check-in/Checkout dates
+    - Invalid: Checkout is before check-in 
+    - Valid: Check-in is before checkout
+    - Invalid: Check-in and checkout are in the same date
+- (iv) Requested date ranges:  
+    - Valid: every night in the date range is available
+    - Invalid: one or more nights in the date range isn't available  
 
 
 #### Step 2
