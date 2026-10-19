@@ -1,5 +1,4 @@
 #### Step 1
-Test Classifications: 
 Inputs: 
 - Reservation information (check-in/checkout dates, # of guests)
 Conditions: 
