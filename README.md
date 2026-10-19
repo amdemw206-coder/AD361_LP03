@@ -1,17 +1,17 @@
 #### Step 1
 Test Classifications: 
 Inputs: 
-    Reservation information (check-in/checkout dates, # of guests)
+- Reservation information (check-in/checkout dates, # of guests)
 Conditions: 
-    (i) Reservations must be between 1 - 31 nights
-    (ii) Reservations must include 1 - 12 guests 
-    (iii) The check-in date must be before the checkout date
-    (iv) The requested date range must have every night available
+- (i) Reservations must be between 1 - 31 nights
+- (ii) Reservations must include 1 - 12 guests 
+- (iii) The check-in date must be before the checkout date
+- (iv) The requested date range must have every night available
 Calculated Values: 
-    (i) Base reservation costs
-    (ii) one-time cleaning fee
-    (iii) guest fees 
-    (iv) Nights calculation (checkout date - check-in date)
+- (i) Base reservation costs
+- (ii) one-time cleaning fee
+- (iii) guest fees 
+- (iv) Nights calculation (checkout date - check-in date)
 
 Ranges and Conditions: 
 (i) Reservation Nights: 
